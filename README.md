@@ -33,6 +33,9 @@ I favor modular workflows, auditable decisions, human oversight at consequential
 
 ## Public code & selected experiments
 
+- [Checklist Production Pipeline](https://github.com/nkhilko/checklist-production-pipeline) — batch PDF generation, human approval, and verified mock publishing.
+- [Multichannel Release Orchestrator](https://github.com/nkhilko/multichannel-release-orchestrator) — per-channel delivery tracking, retries, and recovery.
+- [Cinematic Geometry Demo](https://github.com/nkhilko/cinematic-geometry-demo) — a reproducible, target-locked camera path and framing checks using synthetic artwork.
 - [Teleprompter Script Tool](https://github.com/nkhilko/teleprompter-script-tool) — a lightweight browser-based video scripting utility.
 - [Coffee ordering MVP](https://github.com/nkhilko/nomadich-site) — a small static storefront and order-capture prototype.
 

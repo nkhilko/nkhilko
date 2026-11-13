@@ -1,53 +1,48 @@
-# 👋 Hi, I’m Nikita Khilko
+# Nikita Khilko
 
-**AI Automation & Security Consultant | Product & Growth-Driven Solutions**
+**AI Operations · Revenue Systems · Product Strategy**
 
-I help teams automate repetitive workflows, improve security posture, and build scalable customer-centric systems. My background combines hands-on implementation with product & marketing experience across SMBs, funded startups, and global brands.
+I design systems that make growth operational — connecting business strategy, AI, automation, and product thinking to build scalable, measurable operations.
 
----
+My work spans hands-on implementation, product leadership, CRM-driven processes, and commercial growth. I work with founders, teams, and partners on the systems behind better business outcomes.
 
-### 🔧 What I Work On
+## Selected work
 
-- **Business Automation & AI Integration**  
-  Zapier / n8n workflows, CRM automations, conversational AI, data pipeline optimization
+**AI-Assisted SDR-CRM**  
+A modular revenue-operations architecture connecting prospect research, enrichment, AI-supported qualification, human-reviewed outreach, CRM lifecycle management, and follow-up orchestration. Designed around a target of 10–20 new prospect records per business day.
 
-- **Smart Security for Businesses**  
-  Apple-centric security, access control, staff training, incident prevention
+**Legal & hospitality operating models**  
+Industry-specific sales intelligence and workflow designs covering account research, contact prioritization, client or guest intake, communications, and operational coordination. Illustrative capacity models are distinguished from measured client results.
 
-- **Product & Growth Advisory**  
-  Conversion-driven websites, analytics setup, customer insights, scalable funnels
+**Automated digital-product pipeline**  
+Research-to-publication workflows for practical security resources, combining AI-assisted content development, batch production, quality review, approvals, and Wix publishing.
 
----
+**Sketchsy — global commerce & marketing automation**  
+An independent art business connecting product operations, regional shipping rules, tax considerations, print-on-demand production, order tracking, and multichannel releases. The adaptive performance-learning loop is under development.
 
-### 🛠 Tech & Tools
+**Product and growth leadership — limon.ad / SKT**  
+Co-founded and helped scale a digital growth platform, with monthly revenue growing from approximately €8–10K to €45K+ and customer lifetime value from approximately $150 to $400+. Later product work extended an established B2B foundation toward B2C audiences.
 
-**Automation & Ops:** Zapier · n8n · Make · Retool · Airtable · Notion  
-**Cloud & APIs:** Google Workspace · Apple Ecosystem · Stripe · Wix · Shopify  
-**Analytics & Growth:** GA4 · Tag Manager · Looker Studio · SEO fundamentals  
-**Security Practices:** 2FA · Password policies · Device security · Zero-trust basics  
-**Coding:** Python (automation scripts), JavaScript (front-end & API helpers)  
+## How I work
 
----
+**Business problem → Operating model → System architecture → Implementation → Measurement**
 
-### ⭐ Highlight Projects
+I favor modular workflows, auditable decisions, human oversight at consequential steps, and reusable components over isolated automations.
 
-- **PrivateData.es — Smart Security & Business Automation Consulting**  
-  Website: https://www.privatedata.es/
+**Platforms and tools:** Salesforce and HubSpot (professional CRM experience); n8n, Baserow, Python, JavaScript, APIs, and Google Workspace; Wix and Gelato; GA4 and Google Tag Manager.
 
-- **Sketchsy.art — Automated Print-on-Demand E-commerce**  
-  Minimalist black-and-white art, global fulfillment  
-  Website: https://www.sketchsy.art/
+## Public code & selected experiments
 
-> More repos and public templates coming soon.
+- [Teleprompter Script Tool](https://github.com/nkhilko/teleprompter-script-tool) — a lightweight browser-based video scripting utility.
+- [Coffee ordering MVP](https://github.com/nkhilko/nomadich-site) — a small static storefront and order-capture prototype.
 
----
+Most client-facing and operational systems remain in private repositories to protect business logic, credentials, client data, or third-party creative assets. Public case studies emphasize architecture and transferable engineering decisions rather than exposing operational source.
 
-### 📬 Connect
+## Connect
 
-**LinkedIn:** https://www.linkedin.com/in/nikitakhilko/  
-**Email:** *available on request*  
-**Location:** Barcelona region, Spain
+- [Personal portfolio](https://nkhilko.github.io/) — detailed project and architecture case studies
+- [LinkedIn](https://www.linkedin.com/in/nikitakhilko/)
+- [PrivateData](https://www.privatedata.es/) — consulting and business transformation
+- [Sketchsy](https://www.sketchsy.art/) — creative e-commerce
 
----
-
-🚀 Always open to consulting, collaborations, and product-driven roles.
+Based in the Barcelona region, Spain. Open to senior product and AI-operations roles, consulting engagements, and strategic partnerships.
